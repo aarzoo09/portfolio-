@@ -18,4 +18,21 @@ This portfolio highlights my **skills, projects, and contact information** with 
 
 ## 🧩 Tech Stack
 
-- **Frontend:** Streamlit, HTML/CSS, Python
+- **Frontend:** Streamlit, HTML/CSS, Python  
+- **Backend:** Google Sheets API (for contact form)  
+- **Libraries Used:**
+  - `streamlit`
+  - `pandas`
+  - `plotly`
+  - `gspread`
+  - `google-auth`
+  - `Pillow`
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repo and install dependencies:
+```bash
+cd portfolio
+pip install -r requirements.txt
